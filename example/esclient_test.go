@@ -36,7 +36,7 @@ func TestSearchEngine(t *testing.T) {
 		CreatorID: 1,
 		ID:        "Z9VukIoBTBIIioll_YjA",
 		Serves:    8,
-		Img:       "https://cookage-recipe-src.s3.amazonaws.com/user-data/fisher/recipe_images/cd898b9c647594e14097867e299b801b.jpg",
+		Img:       "https://image.jpg",
 		Instructions: []InstructRender{
 			{
 				GroupTitle: "",
