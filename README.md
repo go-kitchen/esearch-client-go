@@ -1,6 +1,6 @@
 # esearch-client-go
 
-An easy-to-use ElasticSearch ORM for Go, designed to simplify database operations and enhance developer productivity. ElasticGo ORM provides a developer-friendly interface for interacting with ElasticSearch, allowing you to focus on building your application without getting bogged down by the complexities of managing ElasticSearch queries and configurations.
+An easy-to-use ElasticSearch ORM for Go, designed to simplify database operations and enhance developer productivity. The `esearch-client-go` provides a developer-friendly interface for interacting with ElasticSearch, allowing you to focus on building your application without getting bogged down by the complexities of managing ElasticSearch queries and configurations.
 
 ## Feature
 - Initiation of the Client to connect the ElasticSearch server/cluster
